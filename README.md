@@ -1,2 +1,6 @@
 # IPhone-security
-A Markup Documentationoto secure an iOS phone.
+## Green Zone Security
+
+## Yellow Zone Security
+
+## Red Zone Security
